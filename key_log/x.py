@@ -1,2 +1,2 @@
-EMAIL_ADDRESS = "aaroncurtisskinner@gmail.com"
-EMAIL_PASSWORD = "P@int0909"
+EMAIL_ADDRESS = "youraddresshere@gmail.com"
+EMAIL_PASSWORD = "password"
